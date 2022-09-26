@@ -1,0 +1,91 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.application.musicdatabaseapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:5:5-31:19
+12        android:allowBackup="true"
+12-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] /home/rckstrpnda/.gradle/caches/transforms-3/376792b261fdcbfd86757f02ea12377d/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.MusicDatabaseApp" >
+20-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:11:9-54
+21        <activity
+21-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:12:9-18:20
+22            android:name="com.application.musicdatabaseapp.EditMovieActivity"
+22-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:13:13-46
+23            android:exported="false" >
+23-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:14:13-37
+24            <meta-data
+24-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:15:13-17:36
+25                android:name="android.app.lib_name"
+25-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:16:17-52
+26                android:value="" />
+26-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:17:17-33
+27        </activity>
+28        <activity
+28-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:19:9-21:39
+29            android:name="com.application.musicdatabaseapp.AddNewMovieActivity"
+29-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:20:13-48
+30            android:exported="true" />
+30-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:21:13-36
+31        <activity
+31-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:22:9-30:20
+32            android:name="com.application.musicdatabaseapp.MainActivity"
+32-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:23:13-41
+33            android:exported="true" >
+33-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:24:13-36
+34            <intent-filter>
+34-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:25:13-29:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:26:17-69
+35-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:26:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:28:17-77
+37-->/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/AndroidManifest.xml:28:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.0.0] /home/rckstrpnda/.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.0.0] /home/rckstrpnda/.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+43            android:authorities="com.application.musicdatabaseapp.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.0.0] /home/rckstrpnda/.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.0.0] /home/rckstrpnda/.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.0.0] /home/rckstrpnda/.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.0.0] /home/rckstrpnda/.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.0.0] /home/rckstrpnda/.gradle/caches/transforms-3/8b7c53cedc320aafa8740bc99100eae7/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/rckstrpnda/.gradle/caches/transforms-3/e3d5f7348f31abeaadb43deed4aab633/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/rckstrpnda/.gradle/caches/transforms-3/e3d5f7348f31abeaadb43deed4aab633/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/rckstrpnda/.gradle/caches/transforms-3/e3d5f7348f31abeaadb43deed4aab633/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+51        </provider>
+52    </application>
+53
+54</manifest>

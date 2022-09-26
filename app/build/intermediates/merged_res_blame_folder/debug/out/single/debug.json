@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/drawable_rounded_card.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/drawable/rounded_card.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_edit_artist.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_edit_artist.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_album_song_item.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/album_song_item.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_edit_playlist.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_edit_playlist.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_edit_podcast.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_edit_podcast.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_add_podcast.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_add_podcast.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_add_album_song.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_add_album_song.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_edit_album_song.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_edit_album_song.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_add_artist.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_add_artist.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_user_item.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/user_item.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_playlist_item.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/playlist_item.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_add_user.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_add_user.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_artist_item.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/artist_item.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_add_playlist.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_add_playlist.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_podcaster_item.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/podcaster_item.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_edit_movie_song.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_edit_movie_song.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/drawable_back.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/drawable/back.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_add_podcaster.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_add_podcaster.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_podcast_item.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/podcast_item.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_edit_user.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_edit_user.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_movie_song_item.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/movie_song_item.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_add_movie_song.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_add_movie_song.xml"
+    },
+    {
+        "merged": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/build/intermediates/merged_res/debug/layout_activity_edit_podcaster.xml.flat",
+        "source": "/home/rckstrpnda/StudioProjects/Movie-database-app/app/src/main/res/layout/activity_edit_podcaster.xml"
+    }
+]

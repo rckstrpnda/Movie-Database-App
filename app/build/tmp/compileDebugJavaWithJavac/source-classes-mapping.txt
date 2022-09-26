@@ -1,0 +1,15 @@
+com/application/musicdatabaseapp/adapters/ArtistRVAdapter.java
+ com.application.musicdatabaseapp.adapters.ArtistRVAdapter
+ com.application.musicdatabaseapp.adapters.ArtistRVAdapter$ViewHolder
+com/application/musicdatabaseapp/db/DatabaseHelper.java
+ com.application.musicdatabaseapp.db.DatabaseHelper
+com/application/musicdatabaseapp/BuildConfig.java
+ com.application.musicdatabaseapp.BuildConfig
+com/application/musicdatabaseapp/EditMovieActivity.java
+ com.application.musicdatabaseapp.EditMovieActivity
+com/application/musicdatabaseapp/models/ArtistModel.java
+ com.application.musicdatabaseapp.models.ArtistModel
+com/application/musicdatabaseapp/AddNewMovieActivity.java
+ com.application.musicdatabaseapp.AddNewMovieActivity
+com/application/musicdatabaseapp/MainActivity.java
+ com.application.musicdatabaseapp.MainActivity
